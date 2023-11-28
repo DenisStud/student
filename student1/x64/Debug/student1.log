@@ -1,0 +1,4 @@
+﻿  student1.cpp
+C:\Users\jamed\source\repos\student\student1\student1.cpp(37,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\jamed\source\repos\student\student1\student1.cpp(57,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  student1.vcxproj -> C:\Users\jamed\source\repos\student\student1\x64\Debug\student1.exe
