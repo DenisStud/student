@@ -1,0 +1,3 @@
+﻿  student.cpp
+C:\Users\jamed\source\repos\student\student\student.cpp(102,49): warning C4101: e: неиспользованная локальная переменная
+  student.vcxproj -> C:\Users\jamed\source\repos\student\student\x64\Debug\student.exe
